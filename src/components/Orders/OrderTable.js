@@ -26,7 +26,7 @@ class OrderTable extends Component {
           <thead>
             <tr>
               <th>Sn.</th>
-              <th>Ord No</th>
+              <th>Ord No.</th>
               <th>Main Date</th>
               <th>Party Name</th>
               <th>Event Type</th>
