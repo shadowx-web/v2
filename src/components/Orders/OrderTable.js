@@ -11,13 +11,7 @@ class OrderTable extends Component {
     return (
       <div className="col-md-12 col-sm-12 col-xs-12">
         <div className="x_panel" />
-        {/* <div className="x_content">
-          <div
-            className="modal fade bs-example-modal-lg"
-            role="dialog"
-            ariaidden="true"
-          />
-        </div> */}
+        
 
         <table
           id="datatable-buttons"
